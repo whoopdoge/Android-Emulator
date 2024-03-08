@@ -8,6 +8,6 @@ setTimeout(function(
 ) {
     // Replace 'https://example.com' with the URL of the website you want to load through the proxy
 const proxyObject = document.querySelector('#proxyObject');
-    proxyObject.setAttribute('data', 'https://example.com');
+    proxyObject.setAttribute('data', 'https://now.gg/apps/uncube/7074/now.html');
   }, 2000); // Adjust the delay (2000ms = 2s) as needed
 });
